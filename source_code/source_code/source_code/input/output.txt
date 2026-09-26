@@ -1,0 +1,29 @@
+MERGE SORT
+
+Original array:
+20 15 20 10 15 20 25 10
+
+Sorted array:
+10 10 15 15 20 20 20 25
+
+
+QUICK SORT
+
+Original array:
+20 15 20 10 15 20 25 10
+
+Sorted array:
+10 10 15 15 20 20 20 25
+
+
+STABLE MERGE SORT
+
+Stable sorted packages:
+P4 10
+P8 10
+P2 15
+P5 15
+P1 20
+P3 20
+P6 20
+P7 25
